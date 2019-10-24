@@ -10,3 +10,6 @@ Awesome list for aiding robotics software developers
 * [Design Patterns](https://github.com/JakubVojvoda/design-patterns-cpp)
 * [CPP Features](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [Pre-Commit Checks for Cpp files](https://github.com/danmar/cppcheck/blob/master/tools/git-pre-commit-cppcheck)
+
+### SLAM ###
+* [IRIS LaMa (Localization and Mapping)](https://github.com/iris-ua/iris_lama)
