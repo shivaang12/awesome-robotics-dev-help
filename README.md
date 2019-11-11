@@ -10,7 +10,7 @@ Awesome list for aiding robotics software developers
 * [Design Patterns](https://github.com/JakubVojvoda/design-patterns-cpp)
 * [CPP Features](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [Pre-Commit Checks for Cpp files](https://github.com/danmar/cppcheck/blob/master/tools/git-pre-commit-cppcheck)
-* Add Following in your CMakeList to capture the errors which majority of the big companies expect point out:  `set(CMAKE_EXPORT_COMPILE_COMMANDS ON)`  
+* Add Following in your CMakeList to capture the errors which majority of the big companies expect and point out in interview:  `set(CMAKE_EXPORT_COMPILE_COMMANDS ON)`  
  `set(CMAKE_CXX_CLANG_TIDY  
   clang-tidy;)`
 
